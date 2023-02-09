@@ -1,7 +1,7 @@
 # what is a variable?
 # variable is a container which holds the value of a data type like string, integer, float, boolean etc
 
-singlecode = 'single code abid'
+_singlecode = 'single code abid'
 doublecode = "double code abid"
 triplecode = ''' "this" 'is' a triple code'''
 b = 345
@@ -12,7 +12,7 @@ e = None
 
 # Pritning the variables
 
-print(singlecode)
+print(_singlecode)
 print(doublecode)
 print(triplecode)
 print(b)
@@ -23,7 +23,7 @@ print(e)
 
 # Printing the type of variables
 
-print(type(singlecode))
+print(type(_singlecode))
 print(type(doublecode))
 print(type(triplecode))
 print(type(b))
