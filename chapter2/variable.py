@@ -10,6 +10,8 @@ d = True
 e = None
 
 
+# Pritning the variables
+
 print(singlecode)
 print(doublecode)
 print(triplecode)
@@ -17,3 +19,14 @@ print(b)
 print(c)
 print(d)
 print(e)
+
+
+# Printing the type of variables
+
+print(type(singlecode))
+print(type(doublecode))
+print(type(triplecode))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
