@@ -10,20 +10,20 @@ print(2 ** 3)  # exponent output: 8
 print(2 // 3)  # floor division output: 0
 
 # Assignment operators
-a = 2
-a += 3
+a = 2  # a = 2
+a += 3  # a = a + 3
 print(a)  # 5
-a -= 3
+a -= 3  # a = a - 3
 print(a)  # 2
-a *= 3
+a *= 3  # a = a * 3
 print(a)  # 6
-a /= 3
+a /= 3  # a = a / 3
 print(a)  # 2.0
-a %= 3
+a %= 3  # a = a % 3
 print(a)  # 2.0
-a **= 3
+a **= 3  # a = a ** 3
 print(a)  # 8.0
-a //= 3
+a //= 3  # a = a // 3
 print(a)  # 2.0
 
 # Comparison operators
