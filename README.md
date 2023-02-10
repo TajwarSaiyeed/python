@@ -7,6 +7,7 @@ python
 │  ├─ play_sound.py
 │  └─ practice.py
 ├─ chapter2
+│  ├─ operators.py
 │  └─ variable.py
 └─ README.md
 
