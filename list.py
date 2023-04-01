@@ -16,6 +16,8 @@ mylist.extend(["Romaisa", 'Adil'])
 
 mylist.sort()
 
+mylist.insert(0, "10")
+
 
 
 print(mylist)
