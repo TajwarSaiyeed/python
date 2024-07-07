@@ -5,3 +5,4 @@ print(t.index(4))  # 3
 
 # t[0] = 89 # TypeError: 'tuple' object does not support item assignment
 # print(t)
+# Tuple is immutable and we can't change the value of tuple
